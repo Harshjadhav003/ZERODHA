@@ -1,4 +1,11 @@
 body {
+  margin: 0;
   font-family: 'Inter', sans-serif;
   color: #424242;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nav-link{
+  margin-left: 40px;
 }

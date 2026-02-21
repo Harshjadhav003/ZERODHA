@@ -2,10 +2,12 @@ import React from 'react';
 
 function Hero() {
     return (
-        <div className="hero-section">
-            <h1>Hero Section</h1>
-            <p>This is the hero section of our about page.</p>
+        <div className="hero-section text-center mt-5">
+            <h2>Zerodha Products</h2><br />
+            <h4 className='text-muted'>TSleek, modern, and intuitive trading platforms</h4><br />
+            <h6>Check out our investment offerings →</h6> <br /><hr />
         </div>
+
     );
 }
 

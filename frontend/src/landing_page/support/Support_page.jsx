@@ -1,9 +1,11 @@
 import React from 'react';
+import Hero from './Hero';
+import CreateTicket from './CreateTicket';
 function Support_page() {
     return (
-        <div className="support-page">
-            <h1>Support Page</h1>
-            <p>Welcome to our support page.</p>
+        <div >
+        <Hero/>
+        <CreateTicket/>
         </div>
     );
 }
