@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Harshjadhav003/zerodha-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Harshjadhav003/zerodha-frontend.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/Harshjadhav003/zerodha-dashboard.git
+[submodule "docker-setup"]
+	path = docker-setup
+	url = https://github.com/Harshjadhav003/zerodha-docker.git
