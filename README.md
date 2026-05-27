@@ -1,4 +1,3 @@
-﻿````md
 ![GitHub stars](https://img.shields.io/github/stars/Harshjadhav003/ZERODHA?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Harshjadhav003/ZERODHA?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshjadhav003/ZERODHA)
